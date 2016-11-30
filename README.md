@@ -1,4 +1,4 @@
-# practice <br/>
+# Practices of Java <br/>
 <p style="font-family:Verdana; font-size:12pt">
 Hello to everyone and welcome to my repository! Please, read this file if you don't want to waste time searching around the code files. 
 Here you have the list o each type of exercise into the projects:
